@@ -11,7 +11,7 @@
 <img width="93" height="21" alt="image" src="https://github.com/user-attachments/assets/3e364f8e-42ec-4693-bd27-2069e8d37639" /> <br>
 hal pertama yang diinput dalam program adalah `import json`, fungsinya yaitu untuk memasukkan data json kedalam program. <br>
 
-**FUNCTION**
+**FUNCTION** <br>
 pada studi kasus kali ini saya menggunakan function untuk validasi input <br>
 *INPUT WAJIB* <br>
 <img width="332" height="131" alt="image" src="https://github.com/user-attachments/assets/db233d4d-cbd6-4d2c-9848-091f2b283c5d" /> <br>
@@ -45,13 +45,30 @@ dengan menggunakan `open` untuk membuka file `nilai.json`, dan memasukkannya ke 
 
 *Pilihan 2*
 - Input <br>
-<img width="382" height="191" alt="image" src="https://github.com/user-attachments/assets/b2bbe5e7-d4d6-4dc3-8163-8e2176824a26" /> <br>
-menggunakan variabel baru disetiap inputan baru, kemudian menyimpannya pada `data_baru`. kemudian data baru ditambahkan pada variabel  `nilai` dengan menggunakan kode `.append`. <br>
+<img width="454" height="346" alt="image" src="https://github.com/user-attachments/assets/6631b325-f48a-4a91-a336-1ed48537333c" /> <br>
+sebelum run program menambahkan, pertama-tama akan dibuka terlebih dahulu file json agar variabel `ilai` dapat terbaca. kemudian menggunakan variabel `nilai baru` disetiap inputan baru, lalu menyimpannya pada `data_baru`. kemudian data baru ditambahkan pada variabel  `nilai` dengan menggunakan kode `.append`. kemudian membuka file json dengan `open` lalu memasukkan data nilai baru ke dalam data nilai dengan menggunakan `json.dump`. <br>
 - Output (dengan kemungkinan inputan pada nama kosong) <br>
   <img width="158" height="56" alt="image" src="https://github.com/user-attachments/assets/b4129fd5-f851-4983-894a-d7ffed5d28fc" /> <br>
 - Output (dengan kemungkinan nama terisi dan nim diisi dengan huruf) <br>
   <img width="239" height="55" alt="image" src="https://github.com/user-attachments/assets/32640c40-8df0-4693-a328-8493e909619b" /> <br>
-- Output (dengan kemungkinan nama terisi, nim terisi, dan nilai diisi dengan  
+- Output (dengan kemungkinan nama terisi, nim terisi, dan nilai diisi dengan huruf atau kosong( <br>
+<img width="244" height="73" alt="image" src="https://github.com/user-attachments/assets/7c94501a-eb6f-4aa1-b4d0-d328cb7263c1" /> <br>
+- Output (dengan kemungkinan nama terisi, nim terisi, dan nilai terisi) <br>
+<img width="169" height="70" alt="image" src="https://github.com/user-attachments/assets/df624bc8-3a96-477c-b975-4904a199afc8" /> <br>
+
+*Pilihan 3*
+- Output <br>
+<img width="232" height="44" alt="image" src="https://github.com/user-attachments/assets/f78940e6-f84e-43cb-9e89-9990f9b7c371" /> <br>
+
+*Pilihan 1 (Setelah menambahkan data baru* 
+- Output <br>
+<img width="644" height="110" alt="image" src="https://github.com/user-attachments/assets/442acad0-8d0a-4ad1-bb24-67573d1a3d47" />
+
+
+
+
+
+
 
 
 
