@@ -60,9 +60,10 @@ sebelum run program menambahkan, pertama-tama akan dibuka terlebih dahulu file j
 - Output <br>
 <img width="232" height="44" alt="image" src="https://github.com/user-attachments/assets/f78940e6-f84e-43cb-9e89-9990f9b7c371" /> <br>
 
-*Pilihan 1 (Setelah menambahkan data baru* 
+*Pilihan 1 (Setelah menambahkan data baru* <br>
 - Output <br>
-<img width="644" height="110" alt="image" src="https://github.com/user-attachments/assets/442acad0-8d0a-4ad1-bb24-67573d1a3d47" />
+<img width="644" height="110" alt="image" src="https://github.com/user-attachments/assets/442acad0-8d0a-4ad1-bb24-67573d1a3d47" /> <br>
+menampilkan bahwa data lama dan data barumasih tersimpan 
 
 
 
